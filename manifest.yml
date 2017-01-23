@@ -15,4 +15,4 @@ applications:
   random-route: true
   services:
   - myObjectStorage
-  - myClearDB
+  - myComposeDB
